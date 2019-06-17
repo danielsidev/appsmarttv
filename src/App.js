@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.scss';
 import { Link, Route, Switch } from 'react-router-dom';
-import Slider from './components/FullSlider';
+import Slider from './components';
 import VerticalMenu from './components/Menu/verticalMenu';
 import Keyboard from './components/Menu/keyBoard';
 import './App.scss'
